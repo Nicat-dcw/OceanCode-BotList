@@ -1,2 +1,1 @@
-# OceanCode-BotList
-Kendi sunucumum icin yaptığım DJS v13 Botlist Botu Altyapısı (Ayarlamasız)
+# Kodlari Gormek Icin "Master" Branchina Gecin
